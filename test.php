@@ -1,4 +1,5 @@
 <?php
+echo "changement par owner
 if(isset($_GET['id']))
  echo $_GET['id'].'<br /><a href="test.php">Retour</a>';
 else{
